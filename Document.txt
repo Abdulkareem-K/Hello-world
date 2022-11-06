@@ -1,2 +1,15 @@
 Hello every One 
 we are tesing Get hub
+
+
+
+
+
+
+-	Modify the standard OCNN optimization problem by plugging in the resulted within and between subclass dispersion matrix, so that the resulted objective function incorporates subclass information into its optimization process.
+
+-	Use the Backpropagation Algorithm, in order to optimize the objective function of the novel deep subclass IoT intrusion detection and device protection system.
+
+-	Apply the Karush-Kuhn-Tucker conditions [2] on the objective function of the subclass model, in order to train the model on the IoT security data incrementally and in real-time mode.
+
+-	Perform a comparative evaluation and comparison of the novel subclass model to existing relevant One-Class intrusion detection and device protection systems, on IoT Network Security data, using relevant evaluation metrics, namely, ROC curves, AUC, fscore etc ….
